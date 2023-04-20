@@ -54,7 +54,7 @@ Once you have the benchmarking code complete, let's see how Selection Sort and M
 
     **Add your answer to `answers.md` (3 pts)**
 
-7. How long does it take your computer to sort lists of sizes `[1000, 10000, 100000]` using Selection Sort and Merge Sort? Based on this, how long would you expect Selection Sort to take to sort a list of size 1,000,000? Express this in minutes, hours, or days, which ever is the appropriate scale. How long does it take Merge Sort to sort a list of 1,000,000?
+7. How long does it take your computer to sort lists of sizes `[1000, 10000, 100000]` using Selection Sort and Merge Sort? Based on this, how long would you expect Selection Sort to take to sort a list of size 1,000,000? Express this in minutes, hours, or days, which ever is the appropriate scale. Justify your answer. How long does it take Merge Sort to sort a list of 1,000,000?
 
     **Add your answers to `answers.md` (4 pts)**
 
