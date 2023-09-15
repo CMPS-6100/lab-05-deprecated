@@ -52,7 +52,7 @@ def merge(left, right):
     r = 0
     # Repeatedly move the smallest of left and right to the new list
     while l < len(left) and r < len(right):
-        if left[l] < right[r]:
+        if left[l] <= right[r]:
             merged_list.append(left[l])
             l += 1
         else:
@@ -63,7 +63,7 @@ def merge(left, right):
     # Append the remains of left (l..end) on to the new list.
     merged_list.extend(left[l:])
     # Append the remains of right (r..end) on to the new list.
-    merged_list.extend(left[r:])
+    merged_list.extend(right[r:])
     return merged_list
 
 def is_sorted(lst):
