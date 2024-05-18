@@ -38,7 +38,7 @@ Once you have the benchmarking code complete, let's see how Selection Sort and M
 
     **Include this table in `answers.md` (5 pts)**
 
-5. Plot these values. Generate plots containing the runtimes of both Selection Sort and Merge Sort for different ranges of list sizes. A function to generate the plots is not given in this lab. Refer back to the temperatures lab for a method that plots two functions. Modify this method to work in this context, then plot the runtimes for the following lists of sizes.
+5. Plot these values. Generate plots containing the runtimes of both Selection Sort and Merge Sort for different ranges of list sizes. A function to generate the plots is not given in this lab. Refer back to the Asymptotic Analysis notes for example code to produce plots. You will need to modofy it to work in this context, then plot the runtimes for the following lists of sizes.
 
     1. `[10, 20, 30, 40, 50, 60, 70, 80, 90, 100]`
 
